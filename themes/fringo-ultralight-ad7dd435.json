@@ -1,0 +1,38 @@
+{
+  "id": "ad7dd435-4196-4024-8a19-1beafb1ca558",
+  "name": "Fringo Ultra Light",
+  "author": "LeBogo",
+  "backgroundColor": "#ffffff",
+  "textColor": "#000000",
+  "grid": {
+    "color": "#000000"
+  },
+  "field": {
+    "default": {
+      "color": "#ffffff",
+      "hoverColor": "#ededed"
+    },
+    "checked": {
+      "color": "#a1ff84",
+      "hoverColor": "#82ea62"
+    },
+    "gay": {
+      "color": "conic-gradient(red, orange, yellow, green, blue, indigo, violet, red) 50% 50%",
+      "hoverColor": "conic-gradient(red, orange, yellow, green, blue, indigo, violet, red) 50% 50%",
+      "textOutlineColor": "#ff77ed"
+    }
+  },
+  "button": {
+    "color": "#ffffff",
+    "hoverColor": "#f2f2f2"
+  },
+  "sidebar": {
+    "color": "#7e7e7eaa",
+    "backgroundBlur": "5px"
+  },
+  "input": {
+    "color": "#949494",
+    "activeColor": "#66d943",
+    "indicatorColor": "#f0f0f0"
+  }
+}
