@@ -1,0 +1,39 @@
+{
+  "id": "d54b1d9c-2831-4e10-a906-e18c39d5ece4",
+  "name": "Fringo Blue",
+  "author": "LeBogo",
+  "backgroundColor": "darkblue",
+  "textColor": "#ffffff",
+  "grid": {
+    "color": "#5d00ff"
+  },
+  "field": {
+    "default": {
+      "color": "#6243fe",
+      "hoverColor": "#8066ff"
+    },
+    "checked": {
+      "color": "#9985ff",
+      "hoverColor": "#ae9eff"
+    },
+    "gay": {
+      "color": "conic-gradient(blue, lightblue, blue, lightblue, blue, lightblue, blue, lightblue, blue, lightblue, blue)",
+      "hoverColor": "conic-gradient(blue, lightblue, blue, lightblue, blue, lightblue, blue, lightblue, blue, lightblue, blue)",
+      "textOutlineColor": "#4444ff",
+      "textColor": "asdas"
+    }
+  },
+  "button": {
+    "color": "#5447ff",
+    "hoverColor": "#675cff"
+  },
+  "sidebar": {
+    "color": "#6c62fecc",
+    "backgroundBlur": "5px"
+  },
+  "input": {
+    "color": "#a585ff",
+    "activeColor": "#384fff",
+    "indicatorColor": "#ffffff"
+  }
+}
