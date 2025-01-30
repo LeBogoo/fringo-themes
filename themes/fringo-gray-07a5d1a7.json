@@ -1,0 +1,38 @@
+{
+  "id": "07a5d1a7-4647-4c98-99e9-32554b073b4b",
+  "name": "Fringo Gray",
+  "author": "LeBogo",
+  "backgroundColor": "#000000",
+  "textColor": "#ffffff",
+  "grid": {
+    "color": "#171717"
+  },
+  "field": {
+    "default": {
+      "color": "#000000",
+      "hoverColor": "#121212"
+    },
+    "checked": {
+      "color": "#474747",
+      "hoverColor": "#707070"
+    },
+    "gay": {
+      "color": "conic-gradient(gray, lightgray, gray, lightgray, gray, lightgray, gray, lightgray, gray, lightgray, gray, lightgray, gray) 50% 50%",
+      "hoverColor": "conic-gradient(gray, lightgray, gray, lightgray, gray, lightgray, gray, lightgray, gray, lightgray, gray, lightgray, gray) 50% 50%",
+      "textOutlineColor": "#444444"
+    }
+  },
+  "button": {
+    "color": "#444444",
+    "hoverColor": "#555555"
+  },
+  "sidebar": {
+    "color": "#212121aa",
+    "backgroundBlur": "5px"
+  },
+  "input": {
+    "color": "#333333",
+    "activeColor": "#16931b",
+    "indicatorColor": "#ffffff"
+  }
+}
