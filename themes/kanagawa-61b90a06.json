@@ -1,0 +1,38 @@
+{
+  "id": "61b90a06-b7a6-491e-b931-093b36b4689d",
+  "name": "Kanagawa",
+  "author": "RootOperator",
+  "backgroundColor": "#1f1f28",
+  "textColor": "#dcd7ba",
+  "grid": {
+    "color": "#2a2a37"
+  },
+  "field": {
+    "default": {
+      "color": "#363646",
+      "hoverColor": "#54546d"
+    },
+    "checked": {
+      "color": "#76946a",
+      "hoverColor": "#98bb6c"
+    },
+    "gay": {
+      "color": "conic-gradient(red 0%, orange 14%, yellow 28%, green 42%, blue 57%, indigo 71%, violet 85%, red 100%) 50% 50%",
+      "hoverColor": "conic-gradient(red 0%, orange 14%, yellow 28%, green 42%, blue 57%, indigo 71%, violet 85%, red 100%) 50% 50%",
+      "textOutlineColor": "#ff77ed"
+    }
+  },
+  "button": {
+    "color": "#363646",
+    "hoverColor": "#54546d"
+  },
+  "sidebar": {
+    "color": "#2A2A37",
+    "backgroundBlur": "5px"
+  },
+  "input": {
+    "color": "#c34043",
+    "activeColor": "#98bb6c",
+    "indicatorColor": "#dcd7ba"
+  }
+}
